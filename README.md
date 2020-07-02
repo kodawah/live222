@@ -20,7 +20,7 @@ Inspired by the release cycle and development style of superior software project
 
 ## Contributing
 
-Fork this repository - no branches are allowed in the main one. Then open a Pull Request from your fork to this repository and once code coverage passes it will be thoroughly reviewed by the project maintainers. If approved, the code will be merged and folded into the main commit in the `commit` branch.
+Fork this repository - no branches are allowed in the main one. Then open a Pull Request from your fork to this repository and it will be merged and then thoroughly reviewed by the project maintainers. If approved, the code will be merged and folded into the main commit in the `commit` branch.
 
 ## Authors and acknowledgment
 
